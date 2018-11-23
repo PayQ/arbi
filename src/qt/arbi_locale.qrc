@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/arbi_bg.qm</file>
+        <file alias="ca">locale/arbi_ca.qm</file>
+        <file alias="cs">locale/arbi_cs.qm</file>
+        <file alias="da">locale/arbi_da.qm</file>
+        <file alias="de">locale/arbi_de.qm</file>
+        <file alias="en">locale/arbi_en.qm</file>
+        <file alias="en_US">locale/arbi_en_US.qm</file>
+        <file alias="es">locale/arbi_es.qm</file>
+        <file alias="fi">locale/arbi_fi.qm</file>
+        <file alias="fr_FR">locale/arbi_fr_FR.qm</file>
+        <file alias="it">locale/arbi_it.qm</file>
+        <file alias="ja">locale/arbi_ja.qm</file>
+        <file alias="ko_KR">locale/arbi_ko_KR.qm</file>
+        <file alias="nl">locale/arbi_nl.qm</file>
+        <file alias="pl">locale/arbi_pl.qm</file>
+        <file alias="pt">locale/arbi_pt.qm</file>
+        <file alias="pt_BR">locale/arbi_pt_BR.qm</file>
+        <file alias="ro_RO">locale/arbi_ro_RO.qm</file>
+        <file alias="ru">locale/arbi_ru.qm</file>
+        <file alias="sk">locale/arbi_sk.qm</file>
+        <file alias="sv">locale/arbi_sv.qm</file>
+        <file alias="tr">locale/arbi_tr.qm</file>
+        <file alias="uk">locale/arbi_uk.qm</file>
+        <file alias="zh_CN">locale/arbi_zh_CN.qm</file>
+        <file alias="zh_TW">locale/arbi_zh_TW.qm</file>
+    </qresource>
+</RCC>

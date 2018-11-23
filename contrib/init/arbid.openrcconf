@@ -1,0 +1,26 @@
+# /etc/conf.d/arbid: config file for /etc/init.d/arbid
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/arbi/arbi.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/arbid"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/arbid.pid"
+
+# Where to write arbid data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/arbid"
+
+# User and group to own arbid process
+#BITCOIND_USER="arbi"
+#BITCOIND_GROUP="arbi"
+
+# Path to arbid executable
+#BITCOIND_BIN="/usr/bin/arbid"
+
+# Nice value to run arbid under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Arbi
+Comment=Arbi P2P Cryptocurrency
+Exec=arbi-qt %u
+Terminal=false
+Type=Application
+Icon=arbi128
+MimeType=x-scheme-handler/arbi;
+Categories=Office;Finance;
+Name[en_US]=arbi-qt.desktop
